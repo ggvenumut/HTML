@@ -32,3 +32,59 @@ Bu Yapının Mantığı:
 3. `<head>`: Sayfa ile ilgili meta bilgiler (başlık, karakter seti vb.) buraya eklenir.
 4. `<body>`: Kullanıcının tarayıcıda gördüğü tüm içerik buraya yazılır.
 
+3.**En Temel HTML Etiketleri**
+
+- Başlık Etiketleri (`<h1> - <h6>`):
+    - Sayfa başlıklarını belirtmek için kullanılır.
+    - `<h1>` en büyük, `<h6>` en küçük başlıktır.
+```html
+<h1>En Büyük Başlık</h1>
+<h2>İkinci Büyük Başlık</h2>
+<h3>Üçüncü Büyük Başlık</h3>
+<h4>Dördüncü Büyük Başlık</h4>
+<h5>Beşinci Büyük Başlık</h5>
+<h6>Altıncı Büyük Başlık</h6>
+```
+
+- Paragraflar (`<p>`):
+
+Metin eklemek için kullanılır.
+
+```html
+<p>Bu bir paragraftır.</p>
+```
+
+- Linkler (`<a>`):
+
+Bir bağlantı oluşturur.
+
+
+```html
+<a href="https://www.google.com">Google'a Git</a>
+```
+
+- Görseller (`<img>`):
+
+Bir görsel eklemek için kullanılır.
+
+```html
+<img src="gorsel.jpg" alt="Görsel Açıklaması">
+```
+
+- Listeler:
+     - Sırasız Liste (`<ul>`):
+    ```html
+    <ul>
+        <li>Madde 1</li>
+        <li>Madde 2</li>
+    </ul>
+    ```
+
+    - Sıralı Liste (`<ol>`):
+    ```html
+    <ol>
+        <li>Birinci Madde</li>
+        <li>İkinci Madde</li>
+    </ol>
+
+    ```

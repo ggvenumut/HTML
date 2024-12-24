@@ -3,7 +3,7 @@
 ## **1. HTML'in Temelleri**
 - [x] [HTML nedir ve neden kullanılır?](./01_html_temelleri/README.md)
 - [x] [HTML'in temel yapısını öğren (DOCTYPE, `<html>`, `<head>`, `<body>`)](./01_html_temelleri/README.md).
-- [ ] Tarayıcıların HTML'i nasıl işlediğini anla.
+- [x] [Tarayıcıların HTML'i nasıl işlediğini anla](./01_html_temelleri/README.md).
 - [ ] Doğru ve semantik HTML yazımının mantığını kavra.
 
 ## **2. Metin Biçimlendirme**
