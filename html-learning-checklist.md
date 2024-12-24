@@ -1,8 +1,8 @@
 # Temel HTML Öğrenme Görev Listesi 🚀
 
 ## **1. HTML'in Temelleri**
-- [ x ] HTML nedir ve neden kullanılır?
-- [ ] HTML'in temel yapısını öğren (DOCTYPE, `<html>`, `<head>`, `<body>`).
+- [x] [HTML nedir ve neden kullanılır?](./01_html_temelleri/README.md)
+- [x] [HTML'in temel yapısını öğren (DOCTYPE, `<html>`, `<head>`, `<body>`)](./01_html_temelleri/README.md).
 - [ ] Tarayıcıların HTML'i nasıl işlediğini anla.
 - [ ] Doğru ve semantik HTML yazımının mantığını kavra.
 
