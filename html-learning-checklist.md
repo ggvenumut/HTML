@@ -6,11 +6,11 @@
 - [x] [Tarayıcıların HTML'i nasıl işlediğini anla](./01_html_temelleri/README.md).
 - [ ] Pratik Görev
     **Görev İçeriği**:
-    - [ ] Bir başlık (örneğin: "HTML’e Hoş Geldiniz").
-    - [ ] İki paragraf.
-    - [ ] Bir görsel.
-    - [ ] Bir bağlantı (örneğin: GitHub profilin).
-    - [ ] Sırasız bir liste (en sevdiğin 3 film).
+    - [x] Bir başlık (örneğin: "HTML’e Hoş Geldiniz").
+    - [x] İki paragraf.
+    - [x] Bir görsel.
+    - [x] Bir bağlantı (örneğin: GitHub profilin).
+    - [x] Sırasız bir liste (en sevdiğin 3 film).
 ## **2. Metin Biçimlendirme**
 - [ ] Başlık etiketleri (`<h1>` - `<h6>`) ve doğru kullanım alanları.
 - [ ] Paragraflar (`<p>`), boşluklar ve satır sonları.
