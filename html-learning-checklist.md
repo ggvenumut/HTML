@@ -4,8 +4,13 @@
 - [x] [HTML nedir ve neden kullanılır?](./01_html_temelleri/README.md)
 - [x] [HTML'in temel yapısını öğren (DOCTYPE, `<html>`, `<head>`, `<body>`)](./01_html_temelleri/README.md).
 - [x] [Tarayıcıların HTML'i nasıl işlediğini anla](./01_html_temelleri/README.md).
-- [ ] Doğru ve semantik HTML yazımının mantığını kavra.
-
+- [ ] Pratik Görev
+    **Görev İçeriği**:
+    - [ ] Bir başlık (örneğin: "HTML’e Hoş Geldiniz").
+    - [ ] İki paragraf.
+    - [ ] Bir görsel.
+    - [ ] Bir bağlantı (örneğin: GitHub profilin).
+    - [ ] Sırasız bir liste (en sevdiğin 3 film).
 ## **2. Metin Biçimlendirme**
 - [ ] Başlık etiketleri (`<h1>` - `<h6>`) ve doğru kullanım alanları.
 - [ ] Paragraflar (`<p>`), boşluklar ve satır sonları.
