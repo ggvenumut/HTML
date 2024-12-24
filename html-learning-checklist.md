@@ -4,7 +4,7 @@
 - [x] [HTML nedir ve neden kullanılır?](./01_html_temelleri/README.md)
 - [x] [HTML'in temel yapısını öğren (DOCTYPE, `<html>`, `<head>`, `<body>`)](./01_html_temelleri/README.md).
 - [x] [Tarayıcıların HTML'i nasıl işlediğini anla](./01_html_temelleri/README.md).
-- [ ] Pratik Görev
+- [x] [Pratik Görev](./01_html_temelleri/index.html)
     **Görev İçeriği**:
     - [x] Bir başlık (örneğin: "HTML’e Hoş Geldiniz").
     - [x] İki paragraf.
