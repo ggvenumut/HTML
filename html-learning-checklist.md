@@ -12,12 +12,19 @@
     - [x] Bir bağlantı (örneğin: GitHub profilin).
     - [x] Sırasız bir liste (en sevdiğin 3 film).
 ## **2. Metin Biçimlendirme**
-- [ ] Başlık etiketleri (`<h1>` - `<h6>`) ve doğru kullanım alanları.
-- [ ] Paragraflar (`<p>`), boşluklar ve satır sonları.
-- [ ] Kalın (`<b>` veya `<strong>`) ve italik (`<i>` veya `<em>`) metin.
-- [ ] Alıntılar (`<blockquote>`) ve önceden biçimlendirilmiş metinler (`<pre>`).
-- [ ] Sıralı (`<ol>`) ve sırasız (`<ul>`) listeler, liste öğeleri (`<li>`).
-
+- [x] Başlık etiketleri (`<h1>` - `<h6>`) ve doğru kullanım alanları.
+- [x] Paragraflar (`<p>`), boşluklar ve satır sonları.
+- [x] Kalın (`<b>` veya `<strong>`) ve italik (`<i>` veya `<em>`) metin.
+- [x] Alıntılar (`<blockquote>`) ve önceden biçimlendirilmiş metinler (`<pre>`).
+- [x] Sıralı (`<ol>`) ve sırasız (`<ul>`) listeler, liste öğeleri (`<li>`).
+- [x] Görev: Uygulamalı Pratik
+    - [x] Bir HTML dosyası oluştur.
+    - [x] Aşağıdaki içeriği ekle:
+        - [x] Bir başlık (örneğin: "HTML Metin Biçimlendirme").
+        - [x] Bir paragraf.
+        - [x] Kalın ve italik metin örnekleri.
+        - [x] Bir alıntı ve bir ön biçimlendirilmiş metin.
+        - [x] Sıralı ve sırasız birer liste.
 ## **3. Bağlantılar ve Görseller**
 - [ ] Bağlantılar oluşturma (`<a>` etiketi) ve doğru kullanım.
 - [ ] Görseller ekleme (`<img>` etiketi), `alt` özelliğinin önemi.
