@@ -12,12 +12,12 @@
     - [x] Bir bağlantı (örneğin: GitHub profilin).
     - [x] Sırasız bir liste (en sevdiğin 3 film).
 ## **2. Metin Biçimlendirme**
-- [x] Başlık etiketleri (`<h1>` - `<h6>`) ve doğru kullanım alanları.
-- [x] Paragraflar (`<p>`), boşluklar ve satır sonları.
-- [x] Kalın (`<b>` veya `<strong>`) ve italik (`<i>` veya `<em>`) metin.
-- [x] Alıntılar (`<blockquote>`) ve önceden biçimlendirilmiş metinler (`<pre>`).
-- [x] Sıralı (`<ol>`) ve sırasız (`<ul>`) listeler, liste öğeleri (`<li>`).
-- [x] Görev: Uygulamalı Pratik
+- [x] [Başlık etiketleri (`<h1>` - `<h6>`) ve doğru kullanım alanları.](./02_metin_bicimledirme/README.md)
+- [x] [Paragraflar (`<p>`), boşluklar ve satır sonları.](./02_metin_bicimledirme/README.md)
+- [x] [Kalın (`<b>` veya `<strong>`) ve italik (`<i>` veya `<em>`) metin.](./02_metin_bicimledirme/README.md)
+- [x] [Alıntılar (`<blockquote>`) ve önceden biçimlendirilmiş metinler (`<pre>`).](./02_metin_bicimledirme/README.md)]
+- [x] [Sıralı (`<ol>`) ve sırasız(`<ul>`) listeler, liste öğeleri (`<li>`).](./02_metin_bicimledirme/README.md)
+- [x] [Görev: Uygulamalı Pratik](./02_metin_bicimledirme/index.html)
     - [x] Bir HTML dosyası oluştur.
     - [x] Aşağıdaki içeriği ekle:
         - [x] Bir başlık (örneğin: "HTML Metin Biçimlendirme").
